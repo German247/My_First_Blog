@@ -8,14 +8,18 @@
     color: #f0ad4e;
     font-size: 36pt;
     text-decoration: none;
+    background-position: right top;
+    background-repeat: no-repeat;
+    background-image: url(../images/ninja.jpg);
 }
 
 .content {
     margin-left: 40px;
+    
 }
 
 h1, h2, h3, h4 {
-    font-family: 'Lobster';
+    font-family: 'Kalam';
 }
 
 .date {
@@ -40,10 +44,12 @@ h1, h2, h3, h4 {
 
 .post {
     margin-bottom: 70px;
+    
 }
 
 .post h1 a, .post h1 a:visited {
     color: #6a5757;
+    
 }
 
 body {
